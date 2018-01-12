@@ -30,3 +30,19 @@ You can get a nice diagram of your dependency tree, using the script `deps-graph
     ./deps-graph.py <deps.txt
 
 It prints out the text, which you can paste into [nomnoml.com](http://www.nomnoml.com).
+
+### My graph has gotten rather deep!
+
+You can break out a subtree, for example.
+ 
+    I have a cup of tea
+      A mug
+      Tea bag
+      Hot water
+      Milk
+        Buy milk
+
+    Hot water
+      Boil kettle
+        Fill kettle
+
