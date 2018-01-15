@@ -4,7 +4,7 @@ You can articulate a dependency chart in plain text, and then use <http://www.no
 
 ## How to use
 
-Start from your end goal.. for example "I have a cup of tea", and work your way backwards. What do you need in order to be able to have a cup of tea? A mug, tea bag, hot water, and milk.
+Start from your end goal.. for example "I have a cup of tea", and work your way backwards. What do you need in order to be able to have a cup of tea? A mug, tea bag, hot water, and milk. Note that you can decide how much detail to go into, but roughly, if you can see how to achieve the goal from the elements it depends on, that's about enough detail.
 
     I have a cup of tea
       A mug
